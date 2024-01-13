@@ -1,2 +1,4 @@
 # Proiect-BD
-Proiect baze de date
+Proiect baze de date SQL DEVELOPER
+
+
